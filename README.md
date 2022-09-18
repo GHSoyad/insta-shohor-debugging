@@ -6,3 +6,6 @@ Bug List:
 2. Some post description showing 'text'
 3. Post comments user details and comment not showing
 4. Post author image is same as post image
+5. Home page showing hidden posts after clicking on like button
+6. Liked post page duplicating previously liked posts
+7. Reported post page showing all posts and duplicating previously reported posts
